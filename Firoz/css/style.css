@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{list-style: none;
+margin: 0;}
+li{list-style: none;}
+a{text-decoration: none;
+color: black;}
+.menu >li{ margin-left: 10px;}
+
+.header{ background-color: aqua;}
+.button-1{display: inline-block;
+padding: 8px 20px;
+border-radius: 5px;
+background: #f00;
+color: #fff;}
